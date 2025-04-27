@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "JST_XH_2")(type "KiCad")(uri "${KIPRJMOD}/lib/JST_XH_2")(options "")(descr ""))
+)
